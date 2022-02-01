@@ -4,7 +4,7 @@ import discord
 
 from motor.motor_asyncio import AsyncIOMotorClient
 
-# # MongoDB
+# MongoDB
 # Cluster (Replace the <password> part of your uri with your password and remove the "<>")
 myclient = pymongo.MongoClient(
     "!!!! MongoDB secret !!!!")
